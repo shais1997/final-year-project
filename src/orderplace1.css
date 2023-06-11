@@ -1,0 +1,29 @@
+.footer{
+    background-color: blue;
+    width: 16%;
+    height: 100%;
+    position: absolute;
+    left: 0%;
+}
+.welcom{
+    color: blue;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform:translate(-50%, -50%)
+}
+.company-name{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform:translate(-50%, -50%)
+}
+.btn-home{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform:translate(-50%, -50%)
+}
+.btn-home-pri{
+    width: 180px;
+}

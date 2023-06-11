@@ -1,0 +1,44 @@
+.footer{
+    background-color: blue;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 0%;
+}
+.btnhomepri{
+    width: 180px;
+    margin-top: 50px;
+}
+.container{
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform:translate(-50%, -50%);
+        border: 0px solid blue;
+        width: auto;
+        height: 290px;
+        border-radius: 30px;
+}
+.welcom h2{
+    text-align: center;
+    
+}
+.company{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+@media screen and (max-width: 600px){
+    .btnhomepri{
+        width: 100px;
+        font-size: xx-small
+    }
+    .company{
+        width: auto;
+        margin-left: 40px;
+    }
+    .container{
+        width: auto;
+        height: auto;
+    }
+
+}
