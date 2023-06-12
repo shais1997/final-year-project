@@ -6,7 +6,7 @@ import Account from './account-form';
 import Orderplace1 from './order-place1';
 function App() {
   return (
-    <Account/>
+    <Home/>
   );
 }
 
